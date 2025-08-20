@@ -84,4 +84,4 @@ Edit
 ---
 
 ## 👨‍💻 Author
-Developed as part of a **Data Structures & Algorithms assignment**, showcasing the application of
+Developed as part of a **Data Structures & Algorithms assignment**, showcasing the application of **Ford-Fulkerson, graph algorithms, and optimization** to a real-world scheduling problem.  
